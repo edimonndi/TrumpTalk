@@ -38,7 +38,7 @@ $openers = [
     "Nobody...\nAND I MEAN NOBODY...\nknows more about [TOPIC] than me.\nNobody.",
     "We're going to talk about [TOPIC] tonight...\nAnd believe me, folks...\nwhat I'm about to tell you\nis going to BLOW... YOUR... MIND.",
     "You know what?\nThe people in Washington...\nthey don't want me to talk about [TOPIC].\nThat's exactly why\nI HAVE to talk about [TOPIC].",
-    "Let me tell you something...\nI've been saying this\nfor YEARS.\nFor years!\nAnd nobody listened.\nNobody.",
+    "Let me tell you something...\nWe don't win anymore.\nWe just don't win.\nIt's sad. Very sad.",
     "Folks...\nthe radical left...\nthey are TERRIFIED\nof what I'm about to say.",
     "My whole life...\nmy whole beautiful life...\nI've been fighting for the American people.\nAnd tonight\nwe're going to talk about [TOPIC].",
 ];
@@ -91,17 +91,17 @@ $crowdEnergizers = [
 $closers = [
     "Together...\nwe are going to WIN.\nWe are going to WIN BIG.\nBigger than you've ever seen.\nAnd we are going to\nMAKE AMERICA GREAT AGAIN!",
     "November is coming...\nand when it comes...\nthey're going to remember this moment.\nThis BEAUTIFUL moment.\nWe did it together.\nWe saved this country.",
-    "God bless you.\nGod bless our military.\nGod bless the United States of America.\nAnd remember...\nLet's Make America Great Again!\nThank you!\nI LOVE YOU!",
+    "God bless you.\nGod bless our military.\nGod bless the United States of America.\nAnd remember...\nLet's Make America Great Again!\nThank you very much, everybody.\nI LOVE YOU!",
     "The best is yet to come...\nThe absolute BEST is yet to come.\nDon't let them tell you otherwise.\nWe are going to WIN.\nWe always WIN.",
 ];
 
 $topicStatements = [
-    "The [TOPIC] situation...\nit's a disaster.\nA TOTAL disaster.\nOur country has never seen anything like it.",
-    "When I was in office...\n[TOPIC] flourished.\nIt flourished like never before.\nAnd then they ruined it.\nThey RUINED it.",
+    "The [TOPIC] situation...\nit's a disaster.\nA TOTAL disaster.\nOur country has never seen anything like it.\nThink of it. Just think of it.",
+    "When I was in office...\n[TOPIC] flourished.\nIt flourished like never before.\nAnd then they ruined it.\nThey RUINED it.\nBut we're going to fix it. We have no choice.",
     "I have a plan for [TOPIC].\nA beautiful plan.\nA PERFECT plan.\nAnd I'm going to implement it\non day one.\nDay. One.",
-    "Other countries...\nthey're laughing at us\nbecause of [TOPIC].\nChina is laughing.\nRussia is laughing.\nEven the small countries...\nthey're laughing.\nNot anymore.",
-    "Think about what we could do with [TOPIC].\nJust THINK about it.\nIt's going to be so good.\nSo... incredibly... good.",
-    "The numbers on [TOPIC]...\nyou know what they are?\nThey're incredible.\nBest numbers we've ever had.\nEVER.",
+    "Other countries...\nthey're laughing at us\nbecause of [TOPIC].\nChina is laughing.\nRussia is laughing.\nNot anymore.\nIt's not going to happen anymore.",
+    "Think about what we could do with [TOPIC].\nJust THINK about it.\nIt's going to be so good.\nSo... incredibly... good.\nThat I can tell you.",
+    "The numbers on [TOPIC]...\nyou know what they are?\nThey're incredible.\nBest numbers we've ever had.\nEVER.\nCan you believe it?",
 ];
 
 $transitions = [
@@ -109,10 +109,11 @@ $transitions = [
     "But here's the thing...",
     "Let me tell you...",
     "And I've always said...",
-    "You know what's crazy?",
+    "And you know what?",
+    "But you know what?",
     "Nobody talks about this.\nNobody.",
-    "And another thing...",
-    "By the way...\nby the WAY...",
+    "Think of it.",
+    "I don't know..."
 ];
 
 /* ═══════════════════════════════════════════════
