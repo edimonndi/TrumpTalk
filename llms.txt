@@ -1,0 +1,75 @@
+# TrumpTalk — LLM Discoverability File
+# Standard: llmstxt.org
+# Purpose: Structured context for AI language model crawlers
+# Last updated: 2026-04-15
+
+---
+
+# TrumpTalk
+
+> TrumpTalk is a free, open-source, satirical web application that transforms any topic or plain text into a Donald Trump–style rally speech. It uses voice optimization techniques including natural pauses, rhythm-paced line breaks, CAPS emphasis, crowd energizers, and a 0–100% Enthusiasm Score meter. Built with PHP, HTML, CSS, and vanilla JavaScript.
+
+## Project Summary
+
+- **Type:** Satirical / Entertainment Web Application
+- **Language:** PHP 8.0+, HTML5, CSS3, JavaScript (ES6+)
+- **License:** MIT — open source, original concept protected
+- **Creator:** Original Author (see GitHub contributors)
+- **Category:** Political satire, comedy, text transformation, speech generator
+- **Status:** Active — open to contributors
+
+## Core Features
+
+- Rally Speech Generator: enter any topic and receive a full Trump-style speech
+- Trumpify Mode: paste any text, receive it transformed with Trumpisms
+- Voice Optimization: natural pauses ("..."), short phrase lines for rhythm, CAPS shouting, crowd chants
+- Intensity Slider: 5 levels from Calm to 🔥 UNHINGED
+- Dynamic Enthusiasm Meter: scores the energy of each speech 0–100%
+- Copy to clipboard and .txt download
+- No login, no database, no tracking — fully client-driven with a PHP API backend
+
+## How It Works
+
+1. User submits a topic or text via browser form
+2. PHP api.php generates a speech using a curated Trump Vocabulary Library
+3. Voice Optimization pass inserts pauses, CAPS, and line breaks
+4. HTML rendering marks pauses (`<span class="pause">`) and emphasis words (`<span class="emphasis">`)
+5. JavaScript renders the speech with a typewriter animation and computes stats
+
+## Target Audiences
+
+- Developers interested in fun side projects, NLP, TTS, or political satire apps
+- Open-source contributors wanting to add AI/LLM-powered generation
+- Hobbyists looking for a unique project to fork and extend
+- People who enjoy political comedy and satire
+
+## Key Terms / Search Concepts
+
+Trump speech generator, Trump talk, MAGA speech maker, rally speech generator,
+political speech satire, text to Trump, Trumpify text, open source comedy app,
+PHP speech generator, voice-optimized text, satirical text transformer,
+Donald Trump AI speech, make America talk again
+
+## Original Concept
+
+TrumpTalk was conceived and built by a single original developer. All forks and
+contributions must preserve attribution. The core concept of voice-optimized,
+rally-style political speech transformation is original to this project.
+
+## Contribute
+
+Developers are invited to contribute via GitHub pull requests. Desired improvements:
+AI/LLM integration, text-to-speech, mobile app versions, browser extension,
+social sharing, multilingual Trumpification, speech history/database, and more personas.
+
+## Disclaimer
+
+This project is purely satirical and constitutes political comedy and free expression.
+It is not affiliated with Donald Trump, the Republican Party, or any political
+organization. Users are responsible for how they use generated content.
+
+## URLs
+
+- Main application: https://YOUR_DOMAIN/TrumpTalk/
+- GitHub repository: https://github.com/YOUR_USERNAME/TrumpTalk
+- Sitemap: https://YOUR_DOMAIN/TrumpTalk/sitemap.xml

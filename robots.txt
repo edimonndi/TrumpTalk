@@ -1,0 +1,18 @@
+User-agent: *
+Allow: /
+
+# Primary pages
+Allow: /index.php
+Allow: /assets/css/
+Allow: /assets/js/
+
+# Block internal/API endpoints from indexing
+Disallow: /api.php
+Disallow: /.vscode/
+Disallow: /*.log
+
+# Sitemaps
+Sitemap: https://YOUR_DOMAIN/TrumpTalk/sitemap.xml
+
+# Crawl rate (be kind to small servers)
+Crawl-delay: 2
